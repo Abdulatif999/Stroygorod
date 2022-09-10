@@ -470,18 +470,15 @@
     .about-right::after {
         width: 106px;
         height: 100px;
-        bottom: 890px;
+        bottom: 927px;
         right: 9px;
     }
     .cottages {
-        margin-top: 312px;
+        margin-top: 350px;
     }
     .cottages-title{
         font-size: 24px;
         margin-left: 50px;
-    }
-    .slider__item{
-        margin-left: 20px;
     }
     .cottages-img {
         width: 180px;
